@@ -6,15 +6,13 @@
 
 ## 🚀 Key Features - Anahtar Özellikler
 - **Custom Model Training - Özel Model Eğitimi:** Fine-tuned model architectures using Scikit-learn library. - Model mimarileri Scikit-learn kütüphanesi kullanılarak veri setine uyarlanmıştır. 
-- **Model Optimization - Model Optimizasyonu:** Models are saved as  
 - **Data Science - Veri Bilimi:** With help of data science important insights are extracted from the flight dataset. - Veri biliminin yardımıyla uçuş veri setinden önemli bilgiler çıkarılmıştır. 
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
-- **AI / Computer Vision:** PyTorch, OpenCV, YOLOv5, TensorRT, Scikit-learn
-- **Backend & Database:** Python, Django REST Framework, PostgreSQL
-- **DevOps / Infrastructure:** Linux/Ubuntu, Git, Docker
+- **Code Area - Kod Alanı:** Python
+- **Libraries - Kütüphaneler:** Scikit-learn, Pandas, NumPy 
+- **AI / Model Architectures - Yapay Zeka / Model Mimarileri - :** 
+- **DevOps / Infrastructure - Geliştirme / Altyapı:**  Jupyter Notebook, Git, Github
 
-## 📊 Performance Metrics & Results
-- **Latency Reduction:** Decreased inference latency by **40%** (from 45ms to 27ms) using TensorRT optimization.
+## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
 - **Accuracy Improvement:** Achieved a **+5.2% increase in mAP@0.5** via advanced data augmentation and dataset engineering.
-- **Database Speed:** Reduced query response times by **150ms** through strategic database replication setups and indexing.
