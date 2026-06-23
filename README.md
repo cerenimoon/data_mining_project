@@ -11,8 +11,8 @@
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **Code Area - Kod Alanı:** Python
 - **Libraries - Kütüphaneler:** Scikit-learn, Pandas, NumPy 
-- **AI / Model Architectures - Yapay Zeka / Model Mimarileri:** Karar Ağaçları (Decision Trees)
+- **AI / Model Architectures - Yapay Zeka / Model Mimarileri:** Karar Ağaçları (Decision Trees), (Random Forest) 
 - **DevOps / Infrastructure - Geliştirme / Altyapı:**  Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
-- **Accuracy Improvement:** Achieved a **+5.2% increase in mAP@0.5** via advanced data augmentation and dataset engineering.
+- **Accuracy Improvement - Doğruluk Artışı:** Achieved a **+38% increase in accuracy rate** via Random Forest Classification model in Scikit-learn. 
