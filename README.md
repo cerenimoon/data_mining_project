@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **Code Area - Kod Alanı:** Python
 - **Libraries - Kütüphaneler:** Scikit-learn, Pandas, NumPy 
-- **AI / Model Architectures - Yapay Zeka / Model Mimarileri - :** 
+- **AI / Model Architectures - Yapay Zeka / Model Mimarileri:** Karar Ağaçları (Decision Trees)
 - **DevOps / Infrastructure - Geliştirme / Altyapı:**  Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar 
